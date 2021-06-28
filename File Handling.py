@@ -1,7 +1,3 @@
-file_q = open("Quote.txt","r")
-for x in file_q:
-    print(x)
-
 file_b = open("Blogging.txt","w")
 file_b.write("Hey! Welcome to the Blog of my Experiance to Travel Assam")
 
